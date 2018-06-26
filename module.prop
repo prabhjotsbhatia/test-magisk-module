@@ -1,7 +1,9 @@
-id=id
-name=name
-version=v1
-versionCode=1
-author=author
-description=description
+id=punjabi-fonts-magisk
+name=Punjabi Fonts
+version=v0.0.1
+versionCode=001
+author=PSB
+description=Punjabi Systemless Font.
+minMagisk=1500
 template=3
+
