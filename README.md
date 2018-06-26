@@ -3,7 +3,8 @@ __Punjabi__ Systemless Fonts.
 
 Includes the following font families: 
 
-AnmolLipiAmritAseesJoyGurmukhiLys
+AnmolLipi
+AmritAseesJoyGurmukhiLys
 
 ## Instructions ##
 * __Install Module__ via Magisk Manager/TWRP
