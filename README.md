@@ -1,3 +1,29 @@
+# Punjabi Systemless Fonts
+__Punjabi__ Systemless Fonts.
+
+Includes the following font families: 
+
+AnmolLipi
+
+Amrit
+
+Asees
+Joy
+GurmukhiLys
+
+## Instructions ##
+* __Install Module__ via Magisk Manager/TWRP
+* __Clear Cache__ (Optional)
+* __Reboot__ Device
+
+## Changelog ##
+
+#### V0.0.1 ####
+* __Initial Release__
+
+
+
+
 ## SYSTEM/LESS MODULE TEMPLATE
 
 This template is a modified version of the original one.
