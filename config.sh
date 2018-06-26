@@ -97,6 +97,16 @@ REPLACE="
 # Construct your own list here, it will overwrite the example
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
+/system/fonts/AmrLipiHeavy.ttf
+/system/fonts/Asees.ttf
+/system/fonts/amritlipi.ttf
+/system/fonts/Amr000.TTF
+/system/fonts/AMRIT_RG.TTF
+/system/fonts/Anmol_K.TTF
+/system/fonts/JOY.TTF
+/system/fonts/Amrit2_0.ttf
+/system/fonts/ANMOL_.TTF
+/system/fonts/MFPUN020.TTF
 "
 
 ##########################################################################################
