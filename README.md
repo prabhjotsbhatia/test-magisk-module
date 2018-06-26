@@ -4,9 +4,7 @@ __Punjabi__ Systemless Fonts.
 Includes the following font families: 
 
 AnmolLipi
-
 Amrit
-
 Asees
 Joy
 GurmukhiLys
